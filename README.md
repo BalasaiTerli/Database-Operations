@@ -6,5 +6,5 @@ This project demonstrates basic **Database Operations** with **Login and Signup 
 - Perform CRUD operations on a database
 - **User Authentication** (Login/Signup) with password hashing
 - User interface for interacting with the database and managing users
-- - Responsive design with **Tailwind CSS**
+- Responsive design with **Tailwind CSS**
 
